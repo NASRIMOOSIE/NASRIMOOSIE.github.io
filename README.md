@@ -1,4 +1,4 @@
-# Welcome to our channel!
+# Welcome to our website
 
 * some of the things we made:
 
